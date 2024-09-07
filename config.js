@@ -13,7 +13,7 @@ function reloadPresence(client) {
             .setDetails()
             .setState()
             .setStartTimestamp(global.startTime)
-            .setAssetsLargeImage("https://media.discordapp.net/attachments/1108805442030796970/1267857713786781797/ngrp.gif?ex=66d528c2&is=66d3d742&hm=40b0a178099e560b115a9fd9eb52e2053083c285b9ee596c048efdf9a62a8fe9&")
+            .setAssetsLargeImage("https://media.discordapp.net/attachments/1108805442030796970/1267857713786781797/ngrp.gif?ex=66dd11c2&is=66dbc042&hm=65b0b70aea7bcd4574c504df26b8880ebae622b00aa7a2dd0068067e39330cf2&")
             .setAssetsLargeText("JOIN")
             .addButton('Join Discord', "https://discord.gg/ngrp-kerala-official-776666577546117151"),
 
