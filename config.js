@@ -9,7 +9,7 @@ function reloadPresence(client) {
         new discord.RichPresence()
             .setApplicationId("1256607227444330606")
             .setType("PLAYING")
-            .setName("NGRP Kerala BETA")
+            .setName("NGRP Kerala")
             .setDetails()
             .setState()
             .setStartTimestamp(global.startTime)
